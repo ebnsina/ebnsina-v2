@@ -50,7 +50,7 @@ const Header: FC = () => {
         <div>
           <ul className='flex space-x-4 items-center'>
             <li>
-              <button className='btn-fancy'>Let's Be Real!</button>
+              <button className='btn-fancy'>Let&apos;s Be Real!</button>
             </li>
             <li>
               <button

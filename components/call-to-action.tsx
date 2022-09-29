@@ -9,7 +9,7 @@ const CallToAction: FC = () => {
           className='text-6xl font-bold text-center mb-5'
           data-aos='flip-down'
         >
-          Let's make something amazing
+          Let&apos;s make something amazing
         </h2>
         <h4 className='text-xl font-bold text-center mb-8' data-aos='flip-up'>
           Write to me

@@ -17,8 +17,8 @@ const Testimonial: FC = () => {
         >
           <article className='border border-cyan-400 p-6 bg-white dark:bg-slate-800 dark:border-tertiary transform -rotate-3'>
             <blockquote className='text-slate-600 dark:text-white'>
-              I've been working with Ebn Sina since 2017 and it's been a
-              fantastic experience! He works quickly and regularly produces
+              I&apos;ve been working with Ebn Sina since 2017 and it&apos;s been
+              a fantastic experience! He works quickly and regularly produces
               high-quality results. He translates my concept into professional
               visual design that serves my business goals.
             </blockquote>

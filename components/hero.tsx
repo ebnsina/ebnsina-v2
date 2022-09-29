@@ -17,7 +17,7 @@ const Hero: FC = () => {
           </h2>
 
           <h1 className='text-7xl font-bold'>
-            I'm <span className='text-primary'>Ebn Sina</span>
+            I&apos;m <span className='text-primary'>Ebn Sina</span>
           </h1>
 
           <p className='text-sm text-slate-700 leading-relaxed mt-3'>
